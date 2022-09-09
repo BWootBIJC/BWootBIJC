@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Bryant
 - 👀 I’m interested in coding, gaming, and playing music
-- 💻 I work for Datably, Inc as a Full Stack Software Engineer in Chattanooga, TN
+- 💻 I am a Full Stack Software Engineer based in Chattanooga, TN
 - 🌱 Always learning new technologies
 - 📱 Favorite stack to work with... C#/.NET Core w/EF, React and Tailwind
 - 📧 For contracting, please contact me at bryant.wooters@gmail.com.
