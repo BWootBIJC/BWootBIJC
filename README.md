@@ -2,5 +2,5 @@
 - 👀 I’m interested in coding, gaming, and playing music
 - 💻 I am a Full Stack Software Engineer based in Chattanooga, TN
 - 🌱 Always learning new technologies
-- 📱 Favorite stack to work with... C#/.NET Core w/EF, React and Tailwind
+- 📱 Stack... C#/.NET Core, React in TypeScript
 - 📧 For contracting, please contact me at bryant.wooters@gmail.com.
