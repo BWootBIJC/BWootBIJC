@@ -3,4 +3,4 @@
 - 💻 I am a Full Stack Software Engineer based in Chattanooga, TN
 - 🌱 Always learning new technologies
 - 📱 C#/.NET Core, React, TypeScript, Docker, CSS, SASS, React Native, Expo
-- 📧 For contracting, please contact me at bryant.wooters@gmail.com.
+- 📧 For contracting, please contact me at development@bryant-wooters.io.
